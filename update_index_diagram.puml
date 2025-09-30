@@ -1,0 +1,18 @@
+@startuml
+actor Scheduler as "Планировщик задачи"
+participant "Директория с файлами" as DataSource
+participant "Скрипт обработки" as Script
+participant "Разбиение на чанки" as Chunks
+participant "Создание эмбеддингов" as Embeddings
+participant "Индекс" as Index
+database "log.txt" as Logs
+
+Scheduler -> Script : Запуск задачи (периодически)
+Script -> DataSource : Получить файлы для обработки
+Script -> Script :  Разбить файлы на чанки
+Script -> Script : Создать эмбеддинги для чанков
+Script -> Index : Добавить эмбеддинги в индекс
+Script -> Logs : Записать логи обработки
+Script --> Scheduler : Сообщить об окончании
+
+@enduml

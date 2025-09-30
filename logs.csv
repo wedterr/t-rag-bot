@@ -1,0 +1,11 @@
+timestamp,query_text,chunks_found,response_length,successful_response,sources_found
+2025-09-30T19:29:47.047050,Кто такой Xarn Velgor?,True,269,False,knowledge_base\Zan bog.txt:13318; knowledge_base\Shrubrew.txt:17230; knowledge_base\Zan bog.txt:273830; knowledge_base\Zan bog.txt:261858
+2025-09-30T19:31:15.728437,Что такое Synth Flux?,True,212,False,knowledge_base\Galactic Kingdom.txt:93264; knowledge_base\Jin Jorune Zoc Nert.txt:259529; knowledge_base\Jin Jorune Zoc Nert.txt:182665; knowledge_base\Ayrith.txt:24886
+2025-09-30T19:32:56.147404,Что такое Void Core?,True,187,False,knowledge_base\Hans nert.txt:81488; knowledge_base\Hans nert.txt:80436; knowledge_base\Galactic Dynasty.txt:185370; knowledge_base\Jin Jorune Zoc Nert.txt:86706
+2025-09-30T19:34:51.277100,Кто такие Dwarfs?,True,483,True,knowledge_base\Zan bog.txt:273830; knowledge_base\Dwarf neighborhood.txt:126630; knowledge_base\Dwarf neighborhood.txt:9017; knowledge_base\Dwarf.txt:3893
+2025-09-30T19:36:20.545867,Кто такие Shrebrews?,True,229,True,knowledge_base\Aysgarth.txt:55534; knowledge_base\Galactic Kingdom.txt:90040; knowledge_base\New kingdom.txt:80774; knowledge_base\Xarn gubat.txt:40188
+2025-09-30T19:38:15.383266,Что такое Vriperian?,True,761,True,knowledge_base\Vriperian.txt:2003; knowledge_base\Vriperian.txt:8978; knowledge_base\Vriperian.txt:18555; knowledge_base\Knullbirt jorune.txt:215403
+2025-09-30T19:40:07.527604,Кто такой Zan bog?,True,530,True,knowledge_base\Zan bog.txt:130818; knowledge_base\Zan bog.txt:142081; knowledge_base\Zan bog.txt:263590; knowledge_base\Ayrith.txt:13164
+2025-09-30T19:42:20.025540,Что такое Rhaflyn?,True,581,True,knowledge_base\Rhaflyn.txt:0; knowledge_base\Rhaflyn.txt:23987; knowledge_base\Rhaflyn.txt:16768; knowledge_base\Rhaflyn.txt:22516
+2025-09-30T19:44:03.640661,Кто такой Hoodah?,True,779,True,knowledge_base\Jin Jorune Zoc Nert.txt:151639; knowledge_base\Hoodah.txt:8980; knowledge_base\Hoodah.txt:76151; knowledge_base\Hoodah.txt:95476
+2025-09-30T19:57:13.244752,Кто такие Grookiees?,True,758,True,knowledge_base\Grookiee.txt:11471; knowledge_base\Grookiee.txt:1569; knowledge_base\Grookiee.txt:10242; knowledge_base\Grookiee.txt:2035
