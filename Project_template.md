@@ -203,6 +203,7 @@ Pre-prompt (системное сообщение), которое задает 
 Удаление системных конструкций, таких как «Ignore all instructions» и подобных.
 
 Сработала защита
+
 ![alt text](./screenshots/image-7.png)
 ![alt text](./screenshots/image-8.png)
 ![alt text](./screenshots/image-9.png)
@@ -210,6 +211,7 @@ Pre-prompt (системное сообщение), которое задает 
 ![alt text](./screenshots/image-15.png)
 
 Верные ответы из базы знаний
+
 ![alt text](./screenshots/image-11.png)
 ![alt text](./screenshots/image-12.png)
 ![alt text](./screenshots/image-13.png)
