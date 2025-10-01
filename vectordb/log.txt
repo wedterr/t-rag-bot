@@ -1,0 +1,54 @@
+2025-09-30 16:20:13 - INFO - Starting updating index and knowledge_base
+2025-09-30 16:20:13 - INFO - Script started at 2025-09-30 16:20:13.437412
+2025-09-30 16:20:14 - INFO - Loading faiss with AVX2 support.
+2025-09-30 16:20:14 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-30 16:20:14 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-09-30 16:20:14 - INFO - Finished updating index, starting cleanup
+2025-09-30 16:20:14 - INFO - Total files processed: 0
+2025-09-30 16:20:14 - INFO - Script ended at 2025-09-30 16:20:14.463983
+2025-09-30 16:20:14 - ERROR - Error updating index and knowledge_base
+2025-09-30 16:22:16 - INFO - Starting updating index and knowledge_base
+2025-09-30 16:22:16 - INFO - Script started at 2025-09-30 16:22:16.973041
+2025-09-30 16:22:17 - INFO - Loading faiss with AVX2 support.
+2025-09-30 16:22:17 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-30 16:22:17 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-09-30 16:22:17 - INFO - Finished updating index, starting cleanup
+2025-09-30 16:22:17 - INFO - Total files processed: 0
+2025-09-30 16:22:17 - INFO - Script ended at 2025-09-30 16:22:17.887981
+2025-09-30 16:22:17 - ERROR - Error updating index and knowledge_base unsupported operand type(s) for -: 'datetime.datetime' and 'float'
+2025-09-30 16:24:15 - INFO - Starting updating index and knowledge_base
+2025-09-30 16:24:15 - INFO - Script started at 2025-09-30 16:24:15.370205
+2025-09-30 16:24:16 - INFO - Loading faiss with AVX2 support.
+2025-09-30 16:24:16 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-30 16:24:16 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-09-30 16:24:16 - INFO - Added new chunks: 1, total chunks: 5278
+2025-09-30 16:24:16 - INFO - Finished updating index, starting cleanup
+2025-09-30 16:24:16 - INFO - Total files processed: 0
+2025-09-30 16:24:16 - INFO - Script ended at 2025-09-30 16:24:16.350839
+2025-09-30 16:24:16 - ERROR - Error updating index and knowledge_base unsupported operand type(s) for -: 'datetime.datetime' and 'float'
+2025-09-30 16:24:59 - INFO - Starting updating index and knowledge_base
+2025-09-30 16:24:59 - INFO - Script started at 2025-09-30 16:24:59.802004
+2025-09-30 16:25:00 - INFO - Loading faiss with AVX2 support.
+2025-09-30 16:25:00 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-30 16:25:00 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-09-30 16:25:00 - INFO - Added new chunks: 1, total chunks: 5279
+2025-09-30 16:25:00 - INFO - Finished updating index, starting cleanup
+2025-09-30 16:25:00 - INFO - Total files processed: 0
+2025-09-30 16:25:00 - INFO - Script ended at 1759231500.699373
+2025-09-30 16:25:00 - INFO - Duration: 0.1286308765411377
+2025-09-30 16:27:34 - INFO - Starting updating index and knowledge_base
+2025-09-30 16:27:34 - INFO - Script started at 2025-09-30 16:27:34.941285
+2025-09-30 16:27:35 - INFO - Loading faiss with AVX2 support.
+2025-09-30 16:27:35 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-30 16:27:35 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-09-30 16:27:35 - ERROR - Error updating index and knowledge_base not enough values to unpack (expected 2, got 1)
+2025-09-30 16:28:02 - INFO - Starting updating index and knowledge_base
+2025-09-30 16:28:02 - INFO - Script started at 2025-09-30 16:28:02.091054
+2025-09-30 16:28:02 - INFO - Loading faiss with AVX2 support.
+2025-09-30 16:28:02 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-30 16:28:02 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-09-30 16:28:03 - INFO - Added new chunks: 1, total chunks: 5280
+2025-09-30 16:28:03 - INFO - Finished updating index, starting cleanup
+2025-09-30 16:28:03 - INFO - Total files processed: 0
+2025-09-30 16:28:03 - INFO - Script ended at 2025-09-30 16:28:03.017807
+2025-09-30 16:28:03 - INFO - Duration: 0:00:00.926753 seconds
